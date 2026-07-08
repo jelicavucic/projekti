@@ -1,0 +1,12 @@
+=== IZVJEŠTAJ O GLASANJU ===
+naslov   : nacelnik opstine
+period   : 2026-06-22T20:00 — 2026-06-22T21:00
+generisan: 2026-06-22 21:25:04
+---------------------------
+milijana topic         1  (33,3%)
+milos sasic            2  (66,7%)
+---------------------------
+ukupno: 3
+---------------------------
+potpis: 47dcf60ca3295fd2b95d3c818c74aa61...
+===========================
